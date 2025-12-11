@@ -1,0 +1,20 @@
+{
+  "name": "thai-law-assistant-netlify",
+  "version": "1.0.0",
+  "description": "A secure Thai Law Assistant using Netlify Functions and Gemini API.",
+  "main": "index.html",
+  "scripts": {
+    "start": "netlify dev"
+  },
+  "keywords": [
+    "netlify",
+    "gemini",
+    "ai",
+    "serverless"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "0.2.1"
+  }
+}
