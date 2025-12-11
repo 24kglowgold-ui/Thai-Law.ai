@@ -1,0 +1,13 @@
+{
+  "name": "netlify-gemini-bot",
+  "version": "1.0.0",
+  "description": "Dependencies for the Netlify Function to connect to the Gemini API.",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "start": "echo 'Netlify build starting...'"
+  },
+  "dependencies": {
+    "@google/genai": "latest"
+  }
+}
